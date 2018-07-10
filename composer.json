@@ -1,0 +1,13 @@
+{
+    "require": {
+        "defuse/php-encryption": "^2.1",
+        "litipk/php-bignumbers": "^0.7.3"
+    },
+
+	"name": "lib/Liberty",
+	"autoload": {
+		"psr-0": {
+			"Liberty": "lib/"
+		}
+	}
+}
